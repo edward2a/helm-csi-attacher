@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: v4.6.0
+description: Kubernetes CSI Attacher
+name: csi-attacher
+version: 0.0.1
